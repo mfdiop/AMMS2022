@@ -1,6 +1,6 @@
 ---
 title: "AMMS IBS & IBD Practical" 
-author: "Nick Brazeau, Sophie Berube, Izzy Routledge, Abebe Fola"
+author: "Nick Brazeau, Sophie Berube, Izzy Routledge, & Abebe Fola"
 date: "`r format(Sys.time(), '%B %d, %Y')`"
 output: 
   html_document:
